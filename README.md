@@ -9,6 +9,7 @@ These are the learning course provided by Kaggle
 3. Data Types
 4. Conditions and Conditional Statements
 5. Intro to Lists
+6. Titanic Tutorial (**Bonus**)
 
 ## [Python](https://github.com/OG-Matcha/Kaggle_Course/tree/main/Python)
 1. Hello, Python
