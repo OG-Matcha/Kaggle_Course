@@ -34,3 +34,9 @@ These are the learning course provided by Kaggle
 2. Indexing, Selection & Assigning
 3. Summary Functions and Maps
 4. Grouping and Sorting
+5. Data Types and Missing Values
+6. Renaming and Combining
+
+## [Intermediate Machine Learning](https://github.com/OG-Matcha/Kaggle_Course/tree/main/Intermediate%20Machine%20Learning)
+1. Introduction
+2. Missing Values
